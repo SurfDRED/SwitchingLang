@@ -1,0 +1,29 @@
+<resources>
+    <!-- Стиль Base application theme-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Стиль TextView-->
+    <style name="TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/Text</item>
+    </style>
+    <style name="Text">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">48px</item>
+    </style>
+    <!-- Стиль Spinner-->
+    <style name="StySpine" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">120dp</item>
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:backgroundTint">@color/colorTint</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+</resources>

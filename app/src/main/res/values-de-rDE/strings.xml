@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seite wechseln der Sprache</string>
+    <string name="Title">Seite wechseln der Sprache</string>
+    <string name="SubTitle">Yachmentsev D. N.</string>
+    <string name="txtLang">Sprache auswählen:</string>
+    <string name="btnLang">Ok</string>
+    <string name="txtViewLang">Wenn eine Mobile Anwendung auf den internationalen Markt kommt, benötigt Sie eine Lokalisierung für verschiedene Sprachen.</string>
+    <string-array name="language">
+        <item>Russisch</item>
+        <item>Englisch</item>
+        <item>Deutsch</item>
+    </string-array>
+</resources>

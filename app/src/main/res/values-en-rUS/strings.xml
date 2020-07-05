@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language switching page</string>
+    <string name="Title">Language switching page</string>
+    <string name="SubTitle">Yachmentsev D. N.</string>
+    <string name="txtLang">Language selection:</string>
+    <string name="btnLang">Ok</string>
+    <string name="txtViewLang">If a mobile app is entering the international market, it needs to be localized to different languages.</string>
+    <string-array name="language">
+        <item>Russian</item>
+        <item>English</item>
+        <item>German</item>
+    </string-array>
+</resources>
